@@ -7,6 +7,15 @@
 [Pp]ackages/
 Assets/AssetStoreTools*
 
+# PlayMaker
+Assets/PlayMaker/
+Assets/Gizmos/
+Assets/Plugins/
+Assets/PlayMaker.meta
+Assets/Gizmos.meta
+Assets/Plugins.meta
+
+
 # Visual Studio cache directory
 .vs/
 
